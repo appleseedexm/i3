@@ -257,6 +257,7 @@ client.background #1e1e20
 # Gaps
 gaps inner 10
 gaps outer -4
+gaps top 20
 
 smart_gaps on
 
